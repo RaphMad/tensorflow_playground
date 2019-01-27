@@ -2,7 +2,7 @@
 
 This project contains some experiments using [TensorFlow](https://www.tensorflow.org/).
 
-It is based on **Python 3.6.8** and utilizes **CUDA GPU** support, prerequisites are described on https://www.tensorflow.org/install/gpu.
+It is based on **Python 3.6** and utilizes **CUDA GPU** support, prerequisites are described on https://www.tensorflow.org/install/gpu.
 
 The project is not tailored towards any specific IDE, although I personally used **Visual Studio Code** with its **Python** plugin.
 
@@ -13,7 +13,7 @@ The project is not tailored towards any specific IDE, although I personally used
 
 ## Run
 
-TODO
+Simply run the appropriate python file from the **tensorflow_playground** subdirectory.
 
 ## License
 
